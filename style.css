@@ -1,0 +1,39 @@
+ul{
+    list-style: none;
+}
+.task{
+    background-color: rgb(177, 220, 220);
+    color: black;
+    padding: 2px;
+    width: 40px;
+    border-radius: 5px;
+    
+}
+.chip{
+    background-color: rgb(8, 8, 67);
+    color: white;
+    border-radius: 5px;
+    padding: 20px 10px 4px   6px;
+    margin-bottom: 5vh;
+}
+.delete{
+    margin-top: 20px;
+    margin-left: 5px;
+    padding-top: -7px;
+   height: 18px;
+}
+.man{
+    color: blue;
+    font-weight: bold;
+}
+div{
+    text-align: center;
+}
+.opt{
+    color: blue;
+}
+.loginchoice{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+   }
